@@ -1,14 +1,13 @@
 summary: USF GDSC Spring 2024 Python Snake Workshop
 id: docs
 
-# USF GDSC Spring 2024 Python Snake Workshop
+# USF GDSC Spring 2024 Flutter Workshop
 
 ## Introduction
 
 We're gonna make Snake game in Python!
 
-<!-- send image later -->
-<!-- <img src="docs\img\intro.gif" width="270" height="600">  -->
+<img src="docs\img\intro.gif" width="270" height="600"> 
 (Change image, add one for finished game)
 
 ## Setup screen
@@ -39,8 +38,6 @@ snake.py:
     - add previous tail coordinate attribute to snake class init method 
 
 ```python
-import 'package:flutter/material.dart';
-
 from turtle import Turtle 
 
 # a unit of the snake
@@ -423,7 +420,7 @@ class GameController:
 game = GameController()
 ```
 
-## Check for collisionos with wall
+## Check for collisions with wall
 
 snake.py: 
     - Complete check collission with wall method in Snake class
