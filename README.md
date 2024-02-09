@@ -1,4 +1,4 @@
-Codelab: [usfgdsc.github.io/snake/#0](url)
+Codelab: [usfgdsc.github.io/snake/](url)
 
 
 ---------MILESTONE 1---------
