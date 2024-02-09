@@ -1,6 +1,9 @@
 **Codelab**: usfgdsc.github.io/snake/
 
 
+
+
+
 ---------MILESTONE 1---------
 
 ### STEP 1 ->  Setup screen ###
