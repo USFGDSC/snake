@@ -1,4 +1,4 @@
-# Title
+# Snake Game
 GDSC's Fall 23 Workshop Project to learn how to make a snake game in python.
 
 ## Description
